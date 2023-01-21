@@ -9,9 +9,10 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Welcome to Tesla Web application Project30 automation.</h1>
+<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
+	           We are raising millionaires in IT automation.
+	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,7 +35,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	</span>
 	<span style="font-weight: bold;">
                 Landmark Technology, 
-		Toronto, Ontario, Canada
+		Toronto, Canada
 		+1 437 215 2483,
 		mylandmarktech@gmail.com
 		<br>
@@ -45,7 +46,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
+<p align=center> Landmark Technologies - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
 
 </body>
