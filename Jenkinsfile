@@ -39,7 +39,6 @@ pipeline{
     always{
       emailext body: '''Hey guys
 Please check build status.
-
 Thanks
 Landmark 
 +1 437 215 2483''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'paypal-team@gmail.com'
@@ -47,7 +46,6 @@ Landmark
     success{
       emailext body: '''Hey guys
 Good job build and deployment is successful.
-
 Thanks
 Landmark 
 +1 437 215 2483''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'paypal-team@gmail.com'
@@ -55,7 +53,6 @@ Landmark
     failure{
       emailext body: '''Hey guys
 Build failed. Please resolve issues.
-
 Thanks
 Landmark 
 +1 437 215 2483''', recipientProviders: [buildUser(), developers()], subject: 'success', to: 'paypal-team@gmail.com'
